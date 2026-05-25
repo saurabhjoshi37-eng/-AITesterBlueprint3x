@@ -1,1 +1,1 @@
-# -AITesterBlueprint3x
+# AITesterBlueprint3x
